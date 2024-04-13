@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "survei-kepuasan-418923",
+  "private_key_id": "618417565eea4cbddea3765dfd9e400c90e34dc7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1yimYc96QJ9O9\nr/TvWKzyGs9Ep1xb0ermUjIcEMC0TrNzMF3JW2Lo50zdPiaXXDtVHJxzHbzymPUh\nkBMg6lTXe4d7V506PwUWamaFiqMCwsY0UhTT79oVnUYNGf/rIxbwJPTCXKsR3pkC\nB456pNHFP5S+ve/YOsGim7UH/PZ/Dgds9Al48EGWg+gwUq8VIGgUUUpcxBViPGgB\nHliD/J4rqsH+f1Ex2ONAcjH85QwCccvnLJO9zqkX76wpw/7tEqyEe//CYZUtwkis\nndPD8mnTWn/agyu21zZMsFATa2rK8cb+j2XC4YYRiuE2j1KowsyjnwAgFpl6EypI\nAXIJtZFvAgMBAAECggEAPWRnFL24wX05xFsqgDQ1v9NvAPP2PGoRhrPmiVTdB2d2\nseV5Htm2dwo6CpOFK+Oxg+ZULYoy98jRLAMAesK4YUct82kcx4Fl4fKP6fRuZa3K\nivvXXdWoFFmXQTBxHYMtqW8Jm6P4/+FpUeakZuXHk/ILdTkmySLapuQnyGlVA4Xy\nlM8f5OHvMvZdGnb8A6j8QrH0RqvNwV1sx9R3umIYz9em0f1+J453JZKT/uYguZQg\n2Z+482IKWm672eJozNltpO/Bb+0kMTCBEufchtlc4gmXGnZQLAWANJw1xOLZqkIF\nk8jcPIFBw7qLIGI13BjIXJHe+zFLi9nAqdvw9WY+SQKBgQDrl8rxgzEZ6CR66bzN\nu1zW78eDot1qIN3/7JgdhCOOWJUoKygcqDmrxEexenAXSnnqUNEm20a4PFP/QECY\nh/fu+Iekr4NUHzqn3HRJVrbFRyIB24FX6K58+ylgmjZFv10MVRVGFCg1c2a9ljYE\nWo964RhBcrlSs0dfQBOauzYWWQKBgQDFiUxFeBOUVA8qLeU0d5+VeO0laOSKoqMJ\nMJaLbKV0aMZ3JZ3jPY7UhRfJSZxiqGDJRW4L/sVutyYbs9LMJmYTDJ+nfid5yxrw\nSfpMHUv6YSzt+/vA1/c0SGPvne+vot2Pj5piD0D9O8qvGTYQqzNsiF8/7zFrJvJT\nz8tupa39BwKBgQDWLqjNCmVQVTEdIXSJYSYVLeansSA0hO7u5WyhoOkmVzg7TYjp\nDLNpikdXfaV8NzRBJvoOpllT01zV+NcBFNP9yKqguQPfLYkI5K4/onsFPRcYszOS\n9TH04+4JKgnfPQtd09hEXrzzYxfrki1HpgE9SHjhv2fmXKCtYrav/DU++QKBgQCw\ns+YPip9xI1TBdXbAXXXa3ua8fT1bqqrPMLCqnhDPtl46/OJlAY8AGuKxQ/Dp7BdQ\nVJRhlJEGPj2PsGeUCZFr3vH+gYJMl9xMMND/P4HUwxLO/Icy9b4D/fGvyoc7hSRP\nJLWEnIKVRORFh/buKEeDAea6qXx6jsddI9el7f1bBwKBgDOixm8K0BAEp8p9/CYK\n1gG8eVvsPrpDI/xqr+SrssNJZGFudRhXaBUAUYn0xhhwmsMJNo117yOlpRCgJY+C\n65TD5NNfieKV54uYltIwhTG3cBDgR2nbi750BDTetrYeSlI8zaIF3SPjirmC5MnH\nK+DjWw29U+6Q/bgMlHfbc7mD\n-----END PRIVATE KEY-----\n",
+  "client_email": "frhsafia@survei-kepuasan-418923.iam.gserviceaccount.com",
+  "client_id": "117205549900290515574",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/frhsafia%40survei-kepuasan-418923.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

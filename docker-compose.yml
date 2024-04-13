@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  web:
+    image: php:8.1-apache
+    container_name: php_web
+    volumes:
+      - ./:/var/www/html/
+    ports:
+      - "8100:80"
+    stdin_open: true
+    tty: true
