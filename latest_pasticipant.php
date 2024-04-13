@@ -30,7 +30,7 @@ if($latestParticipantId['jml'] > 0)
 		, 'search_read', 
 			array(
 				array(
-					array('survey_id','=',66),
+					array('survey_id','=',1),
 					array('state','=','done'),
 					array('id','>',$latestParticipantId['jml']) //lebih besar dari latest participant
 				)
@@ -42,7 +42,7 @@ if($latestParticipantId['jml'] > 0)
 		, 'search_read', 
 			array(
 				array(
-					array('survey_id','=',66),
+					array('survey_id','=',1),
 					array('state','=','done')
 				)
 			)
@@ -83,7 +83,7 @@ $dataSheet = [];
 			, 'search_read', 
 				array(
 					array(
-						array('survey_id','=',66),
+						array('survey_id','=',1),
 						array('user_input_id','=',$arrQtsKey),
 						array('question_id','=',$arrQtsValue) // from {2} => object array ['predefined_question_ids'] => under looping
 						)
@@ -96,7 +96,7 @@ $dataSheet = [];
 			$nonya = -1;
 			foreach ($surveiItemPerQuestion as $surveiItemPerQuetsionKey => $surveiItemPerQuetsionValue) 
 			{
-				$surveyId = 66;
+				$surveyId = 1;
 				$answerValue = intval($surveiItemPerQuetsionValue['display_name']);
 				$answerType = $surveiItemPerQuetsionValue['answer_type'];
 				$participantId = $arrQtsKey;
